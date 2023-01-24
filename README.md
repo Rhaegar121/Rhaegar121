@@ -1,7 +1,10 @@
-<h2> Hey there! I'm Kaung Myat Kyaw (Barry).</h2>
+<h1> Hey there!! I'm Barry  <img alt="GIF" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100"/></h1>
+
 <img align="center" alt="introduction picture" src="introduction.png" width="1000"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently learning Full-stack development at Microverse
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -9,9 +12,8 @@
 - 👀 &nbsp; Currently looking for new oppotunities.
 <hr>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-<h3>🛠 Tech Stack</h3>
+<h2>My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -23,7 +25,7 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <hr>
 
-<h3> ✨ Where you can find me ✨ </h3>
+<h2> ✨ Where you can find me ✨ </h2>
 
 <p>
   <br/>
