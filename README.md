@@ -6,9 +6,9 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I’m currently learning Full-stack development at Microverse
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
+- 🌱 &nbsp; I'm addicted to learning and growing everyday.
+- ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
 - 👀 &nbsp; Currently looking for new oppotunities.
 <hr>
 
@@ -27,28 +27,28 @@
 
 <h2> ✨ Where you can find me ✨ </h2>
 
-<p>
+<p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/kaung-myat-kyaw-391720227">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="80" height="25">
   </a>
   
   <a href="https://github.com/Rhaegar121">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" width="80" height="25">  
   </a>
 
   <br/>
 
   <a href="https://www.facebook.com/linthantkhai?mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" width="80" height="25">  
   </a>
  
   <a href="https://www.instagram.com/rhaegar_121/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" width="80" height="25">
   </a>
 
   <a href="https://twitter.com/20Rhaegar">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" width="80" height="25">
   </a>
 </p>
 
