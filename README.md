@@ -30,25 +30,25 @@
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/kaung-myat-kyaw-391720227">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="80" height="25">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="85" height="25">
   </a>
   
   <a href="https://github.com/Rhaegar121">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" width="80" height="25">  
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" width="85" height="25">  
   </a>
 
   <br/>
 
   <a href="https://www.facebook.com/linthantkhai?mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" width="80" height="25">  
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" width="85" height="25">  
   </a>
  
   <a href="https://www.instagram.com/rhaegar_121/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" width="80" height="25">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" width="85" height="25">
   </a>
 
   <a href="https://twitter.com/20Rhaegar">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" width="80" height="25">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" width="85" height="25">
   </a>
 </p>
 
