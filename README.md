@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
 - 🌱 &nbsp; I'm addicted to learning and growing everyday.
 - ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
-- 👀 &nbsp; Currently looking for new oppotunities.
+- 👀 &nbsp; Currently looking for new opportunities.
 <hr>
 
 
