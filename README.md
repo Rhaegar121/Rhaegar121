@@ -25,6 +25,14 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <hr>
 
+<h2>My Stats</h2>
+
+![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegar121&show_icons=true&theme=prussian)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rhaegar121&theme=prussian)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegar121&layout=compact&theme=prussian)](https://github.com/Rhaegar121/github-readme-stats)
+
 <h2> ✨ Where you can find me ✨ </h2>
 
 <p align="center">
