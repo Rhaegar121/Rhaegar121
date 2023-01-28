@@ -4,6 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
+<br/>
+
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
@@ -13,7 +15,8 @@
 <hr>
 
 
-<h2>My Tech Stack</h2>
+<h2> 💻 My Tech Stack: </h2>
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -25,7 +28,8 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <hr>
 
-<h2>My Stats</h2>
+<h2> 🔥 My Stats: </h2>
+<br/>
 
 ![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegar121&show_icons=true&theme=prussian)
 
