@@ -41,7 +41,7 @@
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/kaung-myat-kyaw-391720227">
+  <a href="https://www.linkedin.com/in/kaungmyatkyaw7012/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="85" height="25">
   </a>
   
