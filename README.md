@@ -14,11 +14,11 @@
 - 👀 &nbsp; Currently looking for new opportunities.
 <hr>
 
-
 <h2> 💻 My Tech Stack: </h2>
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="auto" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="auto" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="auto" />
 
@@ -30,21 +30,20 @@
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="auto" />
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="auto" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="auto" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="auto" />       
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="50" height="auto" />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="auto" />
 
+</div>
 
 <h2> 🔥 My Stats: </h2>
 <br/>
 
 ![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegar121&show_icons=true&theme=prussian)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rhaegar121&theme=prussian)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rhaegar121&theme=prussian)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegar121&layout=compact&theme=prussian)](https://github.com/Rhaegar121/github-readme-stats)
 
@@ -75,4 +74,4 @@
   </a>
 </p>
 
-⭐️ From [Barry](https://github.com/Rhaegar121) 
+⭐️ From [Barry](https://github.com/Rhaegar121)
