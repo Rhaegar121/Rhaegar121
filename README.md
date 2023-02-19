@@ -4,16 +4,19 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
+<br/>
+
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
 - 🌱 &nbsp; I'm addicted to learning and growing everyday.
 - ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
-- 👀 &nbsp; Currently looking for new oppotunities.
+- 👀 &nbsp; Currently looking for new opportunities.
 <hr>
 
 
-<h2>My Tech Stack</h2>
+<h2> 💻 My Tech Stack: </h2>
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="auto" />
 
@@ -36,11 +39,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="auto" />
 
 
+<h2> 🔥 My Stats: </h2>
+<br/>
+
+![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegar121&show_icons=true&theme=prussian)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rhaegar121&theme=prussian)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegar121&layout=compact&theme=prussian)](https://github.com/Rhaegar121/github-readme-stats)
+
 <h2> ✨ Where you can find me ✨ </h2>
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/kaung-myat-kyaw-391720227">
+  <a href="https://www.linkedin.com/in/kaungmyatkyaw7012/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="85" height="25">
   </a>
   
