@@ -41,6 +41,8 @@
 <h2> 🔥 My Stats: </h2>
 <br/>
 
+<div align="center">
+
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian)
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)
@@ -49,7 +51,9 @@
 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)
 
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5)
+
+</div>
 
 <h2> ✨ Where you can find me ✨ </h2>
 
