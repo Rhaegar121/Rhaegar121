@@ -41,15 +41,15 @@
 <h2> 🔥 My Stats: </h2>
 <br/>
 
-[![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian)
 
-[![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)
 
-[![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian)
 
-[![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)
 
-[![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian)
 
 <h2> ✨ Where you can find me ✨ </h2>
 
