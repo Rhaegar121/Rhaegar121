@@ -41,45 +41,17 @@
 <h2> 🔥 My Stats: </h2>
 <br/>
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="800" height="auto" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="600" height="auto" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian" width="400" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian" width="300" height="auto" style="display: inline;" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian" width="400" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian" width="300" height="auto" style="display: inline;" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian" width="400" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian" width="300" height="auto" style="display: inline;" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="400" height="auto" style="display: inline;" />
-
-  <!-- <div style="width: 100%;">
-
-  ![profile-details]()
-
-  </div>
-  <div style="width: 50%;">
-
-  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)
-
-  </div>
-  <div style="width: 50%;">
-
-  ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian)
-
-  </div>
-  <div style="width: 50%;">
-
-  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)
-
-  </div>
-  <div style="width: 50%;">
-
-  ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5)
-
-  </div>   -->
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
-
 
 <h2> ✨ Where you can find me ✨ </h2>
 
