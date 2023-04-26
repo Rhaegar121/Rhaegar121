@@ -42,15 +42,15 @@
 <br/>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="100" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="100%" height="auto" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian" width="50" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian" width="50%" height="auto" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian" width="50" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian" width="50%" height="auto" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian" width="50" height="auto" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="50" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian" width="50%" height="auto" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="50%" height="auto" />
 
   <!-- <div style="width: 100%;">
 
