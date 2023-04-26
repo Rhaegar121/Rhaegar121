@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="600" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian" width="650" height="auto" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian" width="300" height="auto" style="display: inline;" />
 
