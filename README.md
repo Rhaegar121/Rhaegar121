@@ -41,17 +41,27 @@
 <h2> 🔥 My Stats: </h2>
 <br/>
 
-<div align="center">
-
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhaegar121&theme=prussian)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)
+<div align="left">
 
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian)
+  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhaegar121&theme=prussian)
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)
+</div>
 
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5)
+<div align="right">
+
+  ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhaegar121&theme=prussian)
+
+</div>
+<div align="left">
+
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhaegar121&theme=prussian)
+
+</div>
+<div align="right">
+
+  ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5)
 
 </div>
 
