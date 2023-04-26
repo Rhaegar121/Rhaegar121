@@ -2,6 +2,11 @@
 
 <img align="center" alt="introduction picture" src="introduction.png" width="1000"/>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rhaegar121/count.svg" />
+</p>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <br/>
