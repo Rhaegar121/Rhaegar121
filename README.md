@@ -67,18 +67,15 @@
   </a>
   
   <a href="https://github.com/Rhaegar121">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white
-" width="120" height="auto"> 
+    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" width="120" height="auto"> 
   </a>
 
   <a href="https://www.facebook.com/linthantkhai?mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/-FACEBOOK-3B5998?style=for-the-badge&logo=facebook&logoColor=white
-" width="120" height="auto"> 
+    <img src="https://img.shields.io/badge/-FACEBOOK-3B5998?style=for-the-badge&logo=facebook&logoColor=white" width="120" height="auto"> 
   </a>
  
   <a href="https://www.instagram.com/rhaegar_121/">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" width="120" height="auto">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="auto">
   </a>
 
   <a href="https://twitter.com/20Rhaegar">
