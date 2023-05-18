@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="31">
   </a>
 
-  <a href="https://twitter.com/20Rhaegar">
+  <a href="https://twitter.com/Rhaegar121">
    <img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120" height="31">
   </a>
 </p>
