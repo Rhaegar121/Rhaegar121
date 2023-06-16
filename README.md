@@ -55,6 +55,8 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="auto" />
 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="auto" />
+
 </div>
 
 <h2> 🔥 My Stats: </h2>
