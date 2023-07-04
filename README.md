@@ -4,64 +4,67 @@
   <img alt="GIF" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100"/>
 </h1>
 
-<img align="center" alt="introduction picture" src="introduction.png" width="1000"/>
+<img align="center" alt="introduction picture" src="banner.svg" width="1000"/>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rhaegar121/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<div style="display: flex; justify-content: space-between; align-item: baseline;">
+  <div>
 
-<br/>
+  # 👨🏻‍💻 About Me <br>
 
-<h2> 👨🏻‍💻 About Me </h2>
+  * 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
+  * 🌱 &nbsp; I'm addicted to learning and growing everyday.
+  * ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
+  * ✨ &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
+  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1w-Qh-WPwZaPmIoMspMVUA6D-xUd-nkyK/view?usp=share_link).
+  * 👀 &nbsp; Currently looking for new opportunities.
+  </div>
 
-- 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
-- 🌱 &nbsp; I'm addicted to learning and growing everyday.
-- ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
-- ✨ &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
-- 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1w-Qh-WPwZaPmIoMspMVUA6D-xUd-nkyK/view?usp=share_link).
-- 👀 &nbsp; Currently looking for new opportunities.
+  <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 <hr>
 
-<h2> 💻 My Tech Stack: </h2>
-<br/>
+# 💻 My Tech Stack: 
+<br>
 
 <div style="display: flex; gap: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45" height="auto" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" height="auto" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="auto" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="45" height="auto" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="auto" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="45" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="45" height="auto" />
             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="auto" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="45" height="auto" />
+              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="auto" />
+              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" height="auto" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="auto" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" height="auto" />
             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" height="auto" />       
+            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="45" height="auto" />
+            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="auto" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="auto" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="auto" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" height="auto" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" height="auto" />       
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="45" height="auto" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="auto" />
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="auto" />
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="auto" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="auto" />
 
 </div>
 
-<h2> 🔥 My Stats: </h2>
+# 🔥 My Stats:
 <br/>
 
 <div align="center">
@@ -76,7 +79,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
 
-<h2> ✨ Where you can find me ✨ </h2>
+# ✨ Where you can find me ✨
+<br/>
 
 <p align="center">
   <br/>
