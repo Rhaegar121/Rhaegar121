@@ -11,10 +11,11 @@
   <img src="https://profile-counter.glitch.me/Rhaegar121/count.svg" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-item: baseline;">
-  <div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-  # 👨🏻‍💻 About Me <br>
+<div align="left">
+
+## 👨🏻‍💻 About Me <br>
 
   * 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
   * 🌱 &nbsp; I'm addicted to learning and growing everyday.
@@ -22,13 +23,10 @@
   * ✨ &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
   * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1w-Qh-WPwZaPmIoMspMVUA6D-xUd-nkyK/view?usp=share_link).
   * 👀 &nbsp; Currently looking for new opportunities.
-  </div>
-
-  <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <hr>
 
-# 💻 My Tech Stack: 
+## 💻 My Tech Stack: 
 <br>
 
 <div style="display: flex; gap: 5px;">
@@ -64,7 +62,7 @@
 
 </div>
 
-# 🔥 My Stats:
+## 🔥 My Stats:
 <br/>
 
 <div align="center">
@@ -79,7 +77,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
 
-# ✨ Where you can find me ✨
+## ✨ Where you can find me ✨
 <br/>
 
 <p align="center">
