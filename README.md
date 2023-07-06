@@ -21,7 +21,7 @@
   * 🌱 &nbsp; I'm addicted to learning and growing everyday.
   * ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
   * ✨ &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
-  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1bMqu0dvarjJ3E6jCu0E0nVoUJrPWI35c/view?usp=sharing).
+  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1gINzceqIwshNpYO_NqCS3vSQKAL1t_Hg/view?usp=sharing).
   * 👀 &nbsp; Currently looking for new opportunities.
 </div>
 <hr>
