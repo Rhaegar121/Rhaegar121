@@ -17,10 +17,10 @@
 
 ## 👨🏻‍💻 About Me <br>
 
-  * 🔭 &nbsp; I’m currently learning Full-stack development at Microverse.
-  * 🌱 &nbsp; I'm addicted to learning and growing everyday.
+  * 💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Ruby on rails
+  * 🎓 &nbsp; I have currently completed Full-stack development at Microverse.
   * ⚡ &nbsp; I love math, programming, movies, and all kinds of music.
-  * ✨ &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
+  * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
   * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1gINzceqIwshNpYO_NqCS3vSQKAL1t_Hg/view?usp=sharing).
   * 👀 &nbsp; Currently looking for new opportunities.
 </div>
