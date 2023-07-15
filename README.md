@@ -17,7 +17,7 @@
 
 ## 👨🏻‍💻 About Me <br>
 
-  * 💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Ruby on rails
+  * 💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
   * 🎓 &nbsp; I have currently completed Full-stack development at Microverse.
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
   * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
