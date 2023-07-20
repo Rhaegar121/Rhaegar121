@@ -49,6 +49,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="auto" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="auto" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" height="auto" />
             
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" height="auto" />       
