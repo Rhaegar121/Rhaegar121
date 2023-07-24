@@ -82,7 +82,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
 
-## ✨ Where you can find me ✨
+## 📧 Where you can find me:
 <br/>
 
 <div align="center">
