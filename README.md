@@ -85,14 +85,13 @@
 ## ✨ Where you can find me ✨
 <br/>
 
-<p align="center">
-  <br/>
+<div align="center">
   <a href="https://www.linkedin.com/in/kaungmyatkyaw7012/">
     <img src="./assets/linkedin.gif" width="80" height="80">
   </a>
   
-  <a href="mailto:kaungmyatkyaw7012@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="31"> 
+  <a href="https://wa.me/+959968351200">
+    <img src="./assets/whatsapp.gif" width="80" height="80"> 
   </a>
 
   <a href="https://www.facebook.com/linthantkhai">
@@ -106,6 +105,6 @@
   <a href="https://twitter.com/Rhaegar121">
    <img src="./assets/twitter.gif" width="80" height="80">
   </a>
-</p>
+</div>
 
 ⭐️ From [Barry](https://github.com/Rhaegar121)
