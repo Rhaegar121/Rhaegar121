@@ -88,7 +88,7 @@
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/kaungmyatkyaw7012/">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="31">
+    <img src="./assets/linkedin.gif" width="80" height="80">
   </a>
   
   <a href="mailto:kaungmyatkyaw7012@gmail.com">
