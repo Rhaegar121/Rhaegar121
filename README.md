@@ -100,7 +100,7 @@
   </a>
  
   <a href="https://www.instagram.com/rhaegar_121/">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="31">
+    <img src="./assets/instagram.gif" width="80" height="80">
   </a>
 
   <a href="https://twitter.com/Rhaegar121">
