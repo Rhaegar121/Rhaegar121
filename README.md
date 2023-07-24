@@ -104,7 +104,7 @@
   </a>
 
   <a href="https://twitter.com/Rhaegar121">
-   <img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120" height="31">
+   <img src="./assets/twitter.gif" width="80" height="80">
   </a>
 </p>
 
