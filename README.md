@@ -96,7 +96,7 @@
   </a>
 
   <a href="https://www.facebook.com/linthantkhai">
-    <img src="https://img.shields.io/badge/-FACEBOOK-3B5998?style=for-the-badge&logo=facebook&logoColor=white" width="120" height="31"> 
+    <img src="./assets/facebook.gif" width="80" height="80"> 
   </a>
  
   <a href="https://www.instagram.com/rhaegar_121/">
