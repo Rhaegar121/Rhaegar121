@@ -26,7 +26,7 @@
 </div>
 <hr>
 
-## 💻 My Tech Stack: 
+## <img alt="tech stack" src="./assets/workspace.gif" width="60"/> My Tech Stack: 
 <br>
 
 <div style="display: flex; gap: 5px;">
