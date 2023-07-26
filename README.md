@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## <img alt="programmer" src="./assets/programmer.svg" width="60"/> About me:
+## <img alt="programmer" src="./assets/happy-hacker.gif" width="80"/> About me:
 <div>
 
   * 👨🏻‍💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
@@ -81,7 +81,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
 
-## 📧 Where you can find me:
+## <img alt="contact" src="./assets/send-us-a-message.gif" width="80"/> Where you can find me:
 <br/>
 
 <div align="center">
