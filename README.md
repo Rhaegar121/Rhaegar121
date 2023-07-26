@@ -26,7 +26,7 @@
 </div>
 <hr>
 
-## <img alt="tech stack" src="./assets/workspace.gif" width="60"/> My Tech Stack: 
+## <img alt="tech stack" src="./assets/workspace.gif" width="50"/> My Tech Stack: 
 <br>
 
 <div style="display: flex; gap: 5px;">
@@ -66,7 +66,7 @@
 
 </div>
 
-## 🔥 My Stats:
+## <img alt="stats" src="./assets/stats.gif" width="80"/> My Stats:
 <br/>
 
 <div align="center">
