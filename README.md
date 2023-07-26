@@ -13,9 +13,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-<div align="left">
-
-## 👨🏻‍💻 About Me <br>
+## <img alt="programmer" src="./assets/programmer.svg" width="60"/> About me:
+<div>
 
   * 👨🏻‍💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
   * 💻 &nbsp; I am currently working on a full-stack Airline booking website.
