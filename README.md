@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## <img alt="programmer" src="./assets/happy-hacker.gif" width="80"/> About me:
+# About Me
 <div>
 
   * 👨🏻‍💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
@@ -25,8 +25,12 @@
   * 👀 &nbsp; Looking for new opportunities.
 </div>
 <hr>
+<br>
 
-## <img alt="tech stack" src="./assets/workspace.gif" width="50"/> My Tech Stack: 
+<div align="center">
+
+# <img alt="tech stack" src="./assets/workspace.gif" width="50"/> My Tech Stack <img alt="tech stack" src="./assets/workspace.gif" width="50"/>
+</div>
 <br>
 
 <div style="display: flex; gap: 5px;">
