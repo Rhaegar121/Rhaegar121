@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-# About Me
+## About Me
 <div>
 
   * 👨🏻‍💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
@@ -25,11 +25,10 @@
   * 👀 &nbsp; Looking for new opportunities.
 </div>
 <hr>
-<br>
 
 <div align="center">
 
-# <img alt="tech stack" src="./assets/workspace.gif" width="50"/> My Tech Stack <img alt="tech stack" src="./assets/workspace.gif" width="50"/>
+## <img alt="tech stack" src="./assets/workspace.gif" width="50"/> My Tech Stack <img alt="tech stack" src="./assets/workspace.gif" width="50"/>
 </div>
 <br>
 
@@ -70,7 +69,10 @@
 
 </div>
 
-## <img alt="stats" src="./assets/stats.gif" width="80"/> My Stats:
+<div align="center">
+
+## <img alt="stats" src="./assets/stats.gif" width="80"/> My Stats <img alt="stats" src="./assets/stats.gif" width="80"/>
+</div>
 <br/>
 
 <div align="center">
