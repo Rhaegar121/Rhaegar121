@@ -68,6 +68,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="auto" />
 
 </div>
+<hr>
 
 <div align="center">
 
@@ -86,8 +87,12 @@
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rhaegar121&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
+<hr>
 
-## <img alt="contact" src="./assets/send-us-a-message.gif" width="80"/> Where you can find me:
+<div align="center">
+
+## <img alt="contact" src="./assets/send-us-a-message.gif" width="80"/> Where you can find me <img alt="contact" src="./assets/send-us-a-message.gif" width="80"/>
+</div>
 <br/>
 
 <div align="center">
