@@ -20,8 +20,8 @@
   * 💻 &nbsp; I am currently working on a full-stack Airline booking website.
   * 🎓 &nbsp; I have recently completed Full-stack development at Microverse.
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
-  * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://barry121.vercel.app/).
-  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1gINzceqIwshNpYO_NqCS3vSQKAL1t_Hg/view?usp=sharing).
+  * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://rhbarry.me/).
+  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1gienfnTWEgMC_R2P7t-JVSQC9L_4lLxv/view?usp=sharing).
   * 👀 &nbsp; Looking for new opportunities.
 </div>
 <hr>
