@@ -16,7 +16,7 @@
 ## About Me
 <div>
 
-  * 👨🏻‍💻 &nbsp; Software engineer for delivering state-of-the-art solutions in React and Rails
+  * 👨🏻‍💻 &nbsp; Software Engineer Intern at TwoDotSeven
   * 🎓 &nbsp; I have recently completed Full-stack development at Microverse.
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
   * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://rhbarry.me/).
