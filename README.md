@@ -4,7 +4,7 @@
   <img alt="GIF" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100"/>
 </h1>
 
-<img align="center" alt="introduction picture" src="banner.svg" width="1000"/>
+<img align="center" alt="introduction picture" src="banner.svg"/>
 
 <p align="center"> 
   Visitor count<br>
