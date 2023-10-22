@@ -1,6 +1,6 @@
 <h1> 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7FB8D6&vCenter=true&width=590&height=45&lines=Hey+there!!+I+am+Kaung+Myat+Kyaw;A+passionate+Full-stack+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADEF&vCenter=true&width=590&height=45&lines=Hey+there!!+I+am+Kaung+Myat+Kyaw;A+passionate+Full-stack+developer)](https://git.io/typing-svg)
   <img alt="GIF" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="100"/>
 </h1>
 
