@@ -16,7 +16,7 @@
 ## About Me
 <div>
 
-  * 👨🏻‍💻 &nbsp; Software Engineer Intern at TwoDotSeven
+  * 👨🏻‍💻 &nbsp; Software Engineer Intern at [TwoDotSeven](https://twodotseven.com)
   * 🎓 &nbsp; Completed Full-stack development program at Microverse.
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
   * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://rhbarry.me/).
