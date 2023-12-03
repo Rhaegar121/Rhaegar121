@@ -13,7 +13,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## About Me
+## About Me [![committers.top badge](https://user-badge.committers.top/myanmar/Rhaegar121.svg)](https://user-badge.committers.top/myanmar/Rhaegar121)
+
 <div>
 
   * 👨🏻‍💻 &nbsp; Software Engineer Intern at [TwoDotSeven](https://twodotseven.com)
