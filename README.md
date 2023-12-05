@@ -21,7 +21,7 @@
   * 🎓 &nbsp; Completed Full-stack development program at [Microverse](https://www.microverse.org).
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
   * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://rhbarry.me/).
-  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1gienfnTWEgMC_R2P7t-JVSQC9L_4lLxv/view?usp=sharing).
+  * 📄 &nbsp; You can download my resume [here](https://drive.google.com/file/d/1tciorak3ZNmMrPPnG_b9eSMnv94fY61_/view?usp=sharing).
   * 👀 &nbsp; Looking for new opportunities.
 </div>
 <hr>
