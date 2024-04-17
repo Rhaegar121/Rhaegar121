@@ -17,7 +17,7 @@
 
 <div>
 
-  * 👨🏻‍💻 &nbsp; Software Engineer Intern at [TwoDotSeven](https://twodotseven.com)
+  * 👨🏻‍💻 &nbsp; Software Engineer at [TwoDotSeven](https://twodotseven.com)
   * 🎓 &nbsp; Completed Full-stack development program at [Microverse](https://www.microverse.org).
   * ⚡ &nbsp; I love math, coding, movies, and all kinds of music.
   * 💼 &nbsp; My recent projects are beautifully displayed in my [Portfolio](https://rhbarry.me/).
